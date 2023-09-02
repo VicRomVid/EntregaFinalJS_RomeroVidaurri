@@ -1,0 +1,104 @@
+{
+    "aves": [
+        {
+            "nombreComun": "Garza Blanca",
+            "nombreCient": "Ardea alba",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Garza Morena",
+            "nombreCient": "Ardea herodias",
+            "residencia": "Migratoria"
+        },
+        {
+            "nombreComun": "Garza Nocturna Corona Negra",
+            "nombreCient": "Nycticorax nycticorax",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Garcita Verde",
+            "nombreCient": "Butorides virescens",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Zopilote aura",
+            "nombreCient": "Cathartes aura",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Gavilán de Cooper",
+            "nombreCient": "Accipiter cooperii",
+            "residencia": "Migratoria"
+        },
+        {
+            "nombreComun": "Aguililla Cola Roja",
+            "nombreCient": "Buteo jamaicensis",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Cernícalo Americano",
+            "nombreCient": "Falco sparverius",
+            "residencia": "Migratoria"
+        },
+        {
+            "nombreComun": "Colibrí Garganta Rubí",
+            "nombreCient": "Archilocus colubris",
+            "residencia": "Migratoria"
+        },
+        {
+            "nombreComun": "Colibrí Pico Ancho",
+            "nombreCient": "Cynanthus latirostris",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Zafiro Orejas Blancas",
+            "nombreCient": "Basilinna leucotis",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Colibrí Berilo",
+            "nombreCient": "Saucerottia beryllina",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Gorrión de Botteri",
+            "nombreCient": "Peucaea botterii",
+            "residencia": "Migratoria"
+        },
+        {
+            "nombreComun": "Gorrión Ceja Blanca",
+            "nombreCient": "Spizella passerina",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Gorrión Arlequín",
+            "nombreCient": "Chondestes grammacus",
+            "residencia": "Migratoria"
+        },
+        {
+            "nombreComun": "Gorrión Cantor",
+            "nombreCient": "Melospiza melodia",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Chipe Trepador",
+            "nombreCient": "Mniotilta varia",
+            "residencia": "Migratoria"
+        },
+        {
+            "nombreComun": "Mascarita Común",
+            "nombreCient": "Geothlypis trichas",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Chipe Amarillo",
+            "nombreCient": "Setophaga petechia",
+            "residencia": "Residente"
+        },
+        {
+            "nombreComun": "Chipe Rabadilla Amarilla",
+            "nombreCient": "Setophaga coronata",
+            "residencia": "Migratoria"
+        }       
+    ]
+}
