@@ -15,7 +15,11 @@ elementoAgregar.addEventListener("click",
         lista.push(item);
         mostrarLista();
     }else{
-        alert("Ingresa una cantidad válida")
+        Swal.fire(
+            'Error',
+            'Ingresa una cantidad mayor a 0',
+            'error'
+        )
     }
 });
 
@@ -23,7 +27,11 @@ elementoGuardar.addEventListener("click",
     function guardarLista(){
     const listaJSON = JSON.stringify(lista);
     localStorage.setItem("listaData", listaJSON)
-    alert("Lista guardada en el localstorage")
+    Swal.fire(
+        '¡Listo!',
+        'Tu lista ha sido guardada en el local storage',
+        'success'
+    )
 });
 
 elementoHistorica.addEventListener("click",
